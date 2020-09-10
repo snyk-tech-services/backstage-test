@@ -5,6 +5,7 @@ metadata:
   description: Snyk Disallow
   annotations:
     snyk.io/org-name: customer-facing-tools
+    snyk.io/project-id: a203406b-198d-4579-b713-cf401a371b3a
 spec:
   type: service
   lifecycle: production
