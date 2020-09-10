@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: snyk-scm-refresh
+  description: Snyk SCM Refresh
+  annotations:
+    snyk.io/org-name: customer-facing-tools
+    snyk.io/project-id: b3c0b1cc-77d0-4e83-841d-0668d9a59db3
+spec:
+  type: service
+  lifecycle: production
+  owner: guest
+
