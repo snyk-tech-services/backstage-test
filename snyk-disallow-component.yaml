@@ -4,7 +4,7 @@ metadata:
   name: snyk-disallow
   description: Snyk Disallow
   annotations:
-    snyk.io/orgName: customer-facing-tools
+    snyk.io/org-name: customer-facing-tools
 spec:
   type: service
   lifecycle: production
