@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: snyk-filter
-  description: Snyk Disallow
+  description: Snyk Filter
   annotations:
     snyk.io/org-name: customer-facing-tools
     snyk.io/project-id: 0bbbfee1-2138-4322-80d4-4166d1259ae5
