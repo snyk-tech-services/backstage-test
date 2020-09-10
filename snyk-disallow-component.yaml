@@ -3,10 +3,11 @@ kind: Component
 metadata:
   name: snyk-disallow
   description: Snyk Disallow
+  annotations: {
+    snyk.io/orgName: customer-facing-tools
+  }
 spec:
   type: service
   lifecycle: production
   owner: guest
-annotations:
-  orgName: customer-facing-tools
 
