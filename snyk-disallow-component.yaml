@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: snyk-disallow
+  description: Snyk Disallow
+spec:
+  type: service
+  lifecycle: production
+  owner: guest
+annotations:
+  orgName: customer-facing-tools
+
