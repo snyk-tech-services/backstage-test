@@ -6,6 +6,7 @@ metadata:
   annotations:
     snyk.io/org-name: customer-facing-tools
     snyk.io/project-id: a203406b-198d-4579-b713-cf401a371b3a
+    snyk.io/project-id: 0a1bb625-c88c-4539-8154-6fadc9542c00
 spec:
   type: service
   lifecycle: production
