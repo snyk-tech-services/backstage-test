@@ -5,7 +5,7 @@ metadata:
   description: snyk-jira-for-new-vulns
   annotations:
     snyk.io/org-name: customer-facing-tools
-    snyk.io/project-id: 09235fa4-c241-42c6-8c63-c053bd272786
+    snyk.io/project-id-1: 09235fa4-c241-42c6-8c63-c053bd272786
 spec:
   type: service
   lifecycle: production
