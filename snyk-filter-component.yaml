@@ -5,7 +5,7 @@ metadata:
   description: Snyk Filter
   annotations:
     snyk.io/org-name: customer-facing-tools
-    snyk.io/project-id: 0bbbfee1-2138-4322-80d4-4166d1259ae5
+    snyk.io/project-id-1: 0bbbfee1-2138-4322-80d4-4166d1259ae5
 spec:
   type: service
   lifecycle: production
