@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Java goof
-  description: Snyk Java Goof
+  description: Java Goof
   annotations:
     snyk.io/org-name: aarlaud-snyk-demo
     snyk.io/project-id-1: b17b47c4-8013-42ae-a9d1-12c48d1ee864
