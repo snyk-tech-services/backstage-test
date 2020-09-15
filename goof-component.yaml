@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: goof
+  description: Snyk Goof
+  annotations:
+    snyk.io/org-name: aarlaud-snyk-demo
+    snyk.io/project-id-1: cca5b0cf-9d56-404a-b09f-e3b76ee01b07
+spec:
+  type: service
+  lifecycle: production
+  owner: guest
+
