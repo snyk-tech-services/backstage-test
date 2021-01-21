@@ -5,7 +5,7 @@ metadata:
   description: Java Goof
   annotations:
     snyk.io/org-name: aarlaud-snyk-demo
-    snyk.io/project-ids: b17b47c4-8013-42ae-a9d1-12c48d1ee864,34dd9984-1925-4cb9-8abf-b47b1fb25534,5dc68982-7a59-4ab1-82a8-4f0b29a6e512
+    snyk.io/project-ids: b17b47c4-8013-42ae-a9d1-12c48d1ee864, 34dd9984-1925-4cb9-8abf-b47b1fb25534,5dc68982-7a59-4ab1-82a8-4f0b29a6e512
 spec:
   type: service
   lifecycle: production
